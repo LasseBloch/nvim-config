@@ -6,4 +6,5 @@ return {
   require 'custom.plugins.snacks',
   require 'custom.plugins.flash',
   require 'custom.plugins.persistence',
+  require 'custom.plugins.render-markdown',
 }
