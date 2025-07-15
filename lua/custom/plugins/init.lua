@@ -5,4 +5,5 @@
 return {
   require 'custom.plugins.snacks',
   require 'custom.plugins.flash',
+  require 'custom.plugins.persistence',
 }
