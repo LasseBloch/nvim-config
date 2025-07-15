@@ -7,4 +7,5 @@ return {
   require 'custom.plugins.flash',
   require 'custom.plugins.persistence',
   require 'custom.plugins.render-markdown',
+  require 'custom.plugins.catppuccin',
 }
