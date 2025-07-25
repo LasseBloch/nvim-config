@@ -3,9 +3,10 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  require 'custom.plugins.snacks',
+  require 'custom.plugins.catppuccin',
+  require 'custom.plugins.dadbod-ui',
   require 'custom.plugins.flash',
   require 'custom.plugins.persistence',
   require 'custom.plugins.render-markdown',
-  require 'custom.plugins.catppuccin',
+  require 'custom.plugins.snacks',
 }
