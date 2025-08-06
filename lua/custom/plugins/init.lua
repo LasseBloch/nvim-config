@@ -10,4 +10,5 @@ return {
   require 'custom.plugins.render-markdown',
   require 'custom.plugins.snacks',
   require 'custom.plugins.kulala',
+  require 'custom.plugins.neotest',
 }
