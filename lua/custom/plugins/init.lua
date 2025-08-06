@@ -9,4 +9,5 @@ return {
   require 'custom.plugins.persistence',
   require 'custom.plugins.render-markdown',
   require 'custom.plugins.snacks',
+  require 'custom.plugins.kulala',
 }
